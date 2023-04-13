@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simone Coppola / Site Title"
+title                    : "Simone Coppola"
 title_separator          : "-"
 name                     : &name "Simone Coppola"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Simone Coppola"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher"
-  location         : "Oxford, UK"
+  bio              : "Postdoctoral Researcher at the University of Oxford"
+  location         : "The Kavli Institute for Nanoscience Discovery, Oxford, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0Qgdc78AAAAJ&hl=en"
