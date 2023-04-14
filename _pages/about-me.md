@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 I am a Postdoctoral Researcher in the [Oxford Molecular Motors](https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors) group, where my main focus is studying the molecular mechanisms underpinning microbial motility. Furthermore, I have an interest in developing and building microscope systems for single-molecule localisation experiments, as well as developing image and data processing pipelines for our analysis (MATLAB, Python, LabVIEW).
