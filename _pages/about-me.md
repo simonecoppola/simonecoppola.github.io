@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-I am a Postdoctoral Researcher in the [Holden Lab](https://holdenlab.github.io/) at the University of Warwick, where my main focus is the development of image processing tools to study how bacteria grow and divide.
+I am a Postdoctoral Researcher in the [Holden Lab](https://holdenlab.github.io/) at the University of Warwick, where my main focus is the development of image processing and microscopy tools to study how bacteria grow and divide.
 
 Previously, I was a Postdoctoral Researcher in the [Oxford Molecular Motors](https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors) group, where my main focus was studying the molecular mechanisms underpinning microbial motility. To this end, I led the group's efforts in the development of a novel, low-cost large FOV 3D single-molecule microscope, as well as developing image processing and data analysis tools.
 
